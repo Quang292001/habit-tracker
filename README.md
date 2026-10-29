@@ -32,7 +32,3 @@ npm run dev
 ## Cấu trúc
 
 `src/lib` logic thuần (dễ viết test) · `src/hooks` · `src/components` · `src/styles.css`
-
-## Việc nên làm tiếp
-
-Viết vài unit test cho `streak`, `missedYesterday`, `validate` (Vitest) · deploy Vercel · chụp ảnh/GIF cho README.
